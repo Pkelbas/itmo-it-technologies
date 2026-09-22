@@ -1,3 +1,3 @@
 # itmo-it-technologies
 
-Lab-1: in process
+Lab-1: done
