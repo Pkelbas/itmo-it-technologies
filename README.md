@@ -1,3 +1,3 @@
 # itmo-it-technologies
 
-Lab-1: revisions done
+Lab-1: final revisions done
